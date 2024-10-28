@@ -1,5 +1,5 @@
 import "./Panel.css";
-import { IoTrashBinSharp } from "react-icons/io5"; // Certifique-se de que o ícone está importado
+import { IoTrashBinSharp } from "react-icons/io5"; // 
 
 export default function Panel({ registerData, onDeleteRegister }) {
   return (
